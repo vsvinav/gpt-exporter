@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ChatGPT Markdown + All Media Exporter",
-  "version": "1.4",
+  "version": "1.9",
   "description": "Export ChatGPT chats with all images downloaded locally and referenced in Markdown.",
   "permissions": ["scripting", "downloads", "activeTab"],
   "action": {
